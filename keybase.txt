@@ -4,7 +4,7 @@ https://keybase.io/jonmort
 
 I hereby claim:
 
-  * I am an admin of http://jonmort.org
+  * I am an admin of https://jonmort.github.io
   * I am jonmort (https://keybase.io/jonmort) on keybase.
   * I have a public key with fingerprint 2B4D B2C0 1300 A966 C146  B3D6 F48E C3DC 3827 04A4
 
@@ -24,21 +24,21 @@ To claim this, I am signing this object:
             "username": "jonmort"
         },
         "merkle_root": {
-            "ctime": 1411075768,
-            "hash": "459030584ed1507e52d14ca6a3812da7de4eab5a051d5b42706692623c55943779c0341c4818d2712f2b9550729cb80f58d6a91ce5c24c40bde10290edd6a7b2",
-            "seqno": 52226
+            "ctime": 1411076342,
+            "hash": "ff501781a23b6026a14e404f65d95a1a858eabbb52a854b9b45a41275b4e34cb64e68a10851188b95ce4441632bd9eb2a58cf1496ee0c9c402ee66cabcdfb225",
+            "seqno": 52231
         },
         "service": {
-            "hostname": "jonmort.org",
-            "protocol": "http:"
+            "hostname": "jonmort.github.io",
+            "protocol": "https:"
         },
         "type": "web_service_binding",
         "version": 1
     },
-    "ctime": 1411076190,
+    "ctime": 1411076366,
     "expire_in": 157680000,
-    "prev": "06091f77e443b5d1cb26e545543a0b60ec353e1610303ebc4d683a5af6e7d8c0",
-    "seqno": 4,
+    "prev": "bc8c21723761be923e6f58bf6e4f6d118738e1bdf56ff1141f2b4bc491f6d043",
+    "seqno": 5,
     "tag": "signature"
 }
 
@@ -48,25 +48,25 @@ with the aforementioned key, yielding the PGP signature:
 Version: GnuPG/MacGPG2 v2.0.22 (Darwin)
 Comment: GPGTools - https://gpgtools.org
 
-owFVUltsFVUUvbWV0FZNIYohJZRM1PIol/Oemdsfm4KGjzYFTUQauJ7XbaePOdeZ
-oVLbSlQ0NFpTifpBjEQDRuWDCPyYCAQEfkhEmxRFMG0Qgn4YMVC1MTGeUzHav/NY
-e+211t7j91bmaipuv/HFlaCx6kDF+Z9E7sn6ju1DnjBq0CsMebIv0nHmTjHv117B
-69WDgqc6H5kVsVE635OuuINp8gZ0kkYmtiiQZ3ngjTQ5uCsuRXGXTspJ5Lg8JIgS
-SAKIAeAhYxISJrBiJRJoiZXEAfIB4cRSdps0m9fVm+MsRsq+PkaCDa14fes/+BaH
-3zH3Qf0wBAHRIQswZSFCGjGkBLd9AgoAcMBUJ3cs9Zi43ySZk9uvk94+XUyMmfMs
-s8ghIIEQ+NRngRXE025bQ2gIMKC2h4IU+JoiBYnkjOMAIsV9pYnmgnJAoaKCWH3M
-6mAIS0pDgn0/lAATKEkAA4V8iEpIhNQyoVCKAJRooBgPodRUIiIJEEpDgEKglX33
-BbIOUv1sbLwCRQixEXdNBiKpnWwX2nxveZN02ZJyYjIjTZ/96M6ycsFZzgbLDvic
-FkVL8YnjKIooVnZi/x8ptNB5cTAYgiZP7yxHiS5GDuECsuEC10cPuC1gIIQl39eE
-YEEVlAIxTQmlBHMgGLDDplhDBm2UWAtJlJ0Xp7zEtK8CCf4zSaxO3mUp06gr5tmO
-RHsjoxXLqnIVNbkFd9/ldjZXU1337yKvvLUwd/gUrtmCV31Y1bDh49qTY7cX1o5V
-mr2z3r7fd/1x8dg907tf7H5tZs2Pk5uPL/n8nfxXy+nE7Eed60ZF3bdvv3n/lhca
-ru39bk/Hsv2XFstVlcsv/PBA+5XTfHj7iVOb6xZMrty6+tdH1j7lVT/T89m+tS9/
-2cxF8+knDD10ABy6fmPpbMN7D21q/DPZs3EwfbdWTR007X2NbePrJ1Xn9FXTAoc7
-X2+vP7Lz0Vu7hg//1na+Ob/xyI1Pb549+P0wSM8tOjP+9X2zhZHSzNLkl9Gxrb2b
-hi5OTHtvPd2/pn7og3UdDx9vPXf1pcZX2NTuk/HU/plw21g2caHt0s8PdnxzdNHj
-N1+t/uvy+y3P5/8G
-=AajD
+owFdkl1sFUUUx28FaloCQSQgqTG3i4ma1MvM7Mzs7DVIFPWFeNF4DX7Bzc7s2XZp
+u3vd3ZZ7xYqY+AE1RgJIAwRJrJRgmxQTEyH4AQLBmAA+KQEk0fCgxgeoWkwxOlNq
+Ar7N7vnN/5z/f867s6blmht+f+er8+Ke6YMN3/wsc+WWJ2evs2Ts163iOkt1hRBl
+5hR53WAVrU6oSy+FQhjno9iHwpo0P8W0Wb2QpGEcaQoVeAFZfW0GN5eDMGqHpJqE
+RssikvqSKIRthDyXc4Upl7bPAypA2b6yBXEQ9aiW7IjT7Kau1qRmJfT138eoeHSZ
+/ciy6/xDhu+ZLDDHdZGg4HJhM+4SAoQTX3q6j2AIIQOmkExZWhNH3XGSmXG7Iens
+gkoSx5OeVRYaAlOMkcNtSvRAXtqh7wQBQ9gR2CO25IhwLQ0U0YAz32Ue9gQT4Ekp
+GdFHKl1JmUcxcZikYFMlOQUuPIwEw1gI6TIFlFLMbSJ9FyTxmFABpi4HQMpVFBEA
+HZQnlR9IQph2kMKLUWwVGSE27jOfSW+owIxtQrvZW6E9zDp65PX8qkmcxSru0uWO
+LKumReM8q1cNf2AtyMqUVEWGka8f7saXNZ3+lwrnbRbUqmECldAQzOFCZ4xMI+jV
+mlIJRbBDbIdjCS6xgQdMyICDzsvX/h1bAJZ+wHgQYC0b6AWRirpYlxG1b/Cq5/Ta
+tWQatkde1pOA1bex4c7puYbmXOOMW8zq5pqb5vy3z1vGbv2ntpqMPAXjTVC+raVc
+bcwuliZO77oQ19tSd3TnmSPbjl4q/MVH/170+vqBiZ0rftkyvP25/W+Vj3/WZbeE
+J4fvvvL2qBxZkt+0f+j8eOvW+oZDgyuP5Mufhntfuzwnc34Yh6E9Jw59XVv6xOk/
+vzz18KoNm2sKPf/r1Vlvnl1+/9wvDrfe9/LotmPHPto3/4Vrr9411tR/7/F9pzZP
+66+9d63l49qKwaU9C3o79yy+Mrhk6x0z/xj44PMf+W/NnSPbN+2ef+Lw2kW1Uv7M
+wYXrr5Y/eXDiu3m37y4VhnYtf/r7n57p3oG/rX7Y+srZ1QN7T4bPPjD74ljx/QOl
+Rvr4uf5LG0sz3nCHc3NfWjnz6IJ/AQ==
+=c27q
 -----END PGP MESSAGE-----
 
 And finally, I am proving ownership of this host by posting or
@@ -75,4 +75,3 @@ appending to this document.
 View my publicly-auditable identity here: https://keybase.io/jonmort
 
 ==================================================================
-
