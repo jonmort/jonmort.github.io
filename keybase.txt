@@ -75,3 +75,83 @@ appending to this document.
 View my publicly-auditable identity here: https://keybase.io/jonmort
 
 ==================================================================
+
+==================================================================
+https://keybase.io/jonmort
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://jonmort.org
+  * I am jonmort (https://keybase.io/jonmort) on keybase.
+  * I have a public key with fingerprint 2B4D B2C0 1300 A966 C146  B3D6 F48E C3DC 3827 04A4
+
+To claim this, I am signing this object:
+
+{
+    "body": {
+        "client": {
+            "name": "keybase.io node.js client",
+            "version": "0.6.0"
+        },
+        "key": {
+            "fingerprint": "2b4db2c01300a966c146b3d6f48ec3dc382704a4",
+            "host": "keybase.io",
+            "key_id": "F48EC3DC382704A4",
+            "uid": "5799084e968356922e262dba14685000",
+            "username": "jonmort"
+        },
+        "merkle_root": {
+            "ctime": 1412596685,
+            "hash": "f31194cda4c7acceeaeae51b36f13e881da87f9ee74e37628d39a9a9c5550bf8158dba28ccde2bdaf4e5ebea4f2849ef5d1df1520061ec0119763232de7d16bd",
+            "seqno": 72374
+        },
+        "service": {
+            "hostname": "jonmort.org",
+            "protocol": "https:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1412596942,
+    "expire_in": 157680000,
+    "prev": "2055e120e16cc3afdc4e4b5c00e6332288bc97ccac46678324b66fe3085da98b",
+    "seqno": 11,
+    "tag": "signature"
+}
+
+with the aforementioned key, yielding the PGP signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: GnuPG/MacGPG2 v2.0.22 (Darwin)
+Comment: GPGTools - https://gpgtools.org
+
+owFVkn9oVWUYx+/MhS6qoVARgZcDacK8vO973vc977lQQ6ZWpMyhJk7w8v54znbu
+tnNu55w7vXMDIUmkX67EECsiApGuGINhEtgf859YGhVCo5sSi6DwNqVy/dDonGXU
+eP95f3ye5/l+n+c9cu9dubaWX16Zaog1S99rmf5B5baTg5f2Wyo0Nau439KDPgRJ
+tgvkEFhFawBqSsZQ8MN8EBoolOP8HabDGoYo9sMgpVCBF5A11pHhWbDnB30QVSI/
+y2URRY0iGmEbIelyrjHlyjbcowK0bbQtiIOopGnK/jBOFlW1FnKWfJPebqJiY5e9
+oesffn3GVxcemOO6SFBwubAZdwkBwolRMq0jGEIoA2OI7lgqh8FQGCWZ3CGIBgah
+FIXhgmed+BmBKSYs1SlYKkjG/WmMZ2PsUm0k1Y7UGkCmi2Flcw/bIAQ2UjieC+BQ
+sB1OhLFdmS7NGEPKE5iJVA8RWhsgykiPAgMFknpEUBc8ZrDxMCMIcQxpp7DrcJvY
+xIBjMFcmdRDDc0FoFR1iO3QsO0bDvoZMdta0xd4KYdSXhlSiMAl1OJg+9CdJJS5m
+npNaJSP3girFUF9IUlJ+YNKR/X+mOEUX98OlpMOCfRU/gpKfEczhIu0uygrBcDZo
+xBhgggBzrW3pGU2BKqYRAm7bhAihtOtoLTXl3BE2oYpzD2wkmJGuUP+5xDgVKvvS
+nLHfF8ikGoE1drjlkaW5lrbc3a1Lsl+ba1ve/u9XvvDUstzrR9jbJ7Z/9HJ9tuNp
+GJ+oNs5PNa/v/PDWN53vHl39+egf+vnq4w9NNp/8/s8XzlShuLu8smvFs1Hj/fpv
+84WTM3vmJ9ffGD194Nien37euPaL43NX2zddO7bszfbNW2+EW85deS3xm6fl7V33
+bahv6xkpXOod/XRz+YNdN7f5N+dnu19qZd/yNW2rD9WW7Hu08436gzvU3O6dK35d
+t3Zy4IlnRlZVd+RHLo8f/cu7OnfPO9denP769pdqptl9tqvxwMFP9k7Fc97H9/c+
+XB6e6D1x/rPW+Su3vrp4cXr58Qav/d5zyh17a93M+GNo4kf2XbNzy/VD/Myqk7Px
+YX6gei549ezWnnx3/nKr/Bs=
+=S3du
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/jonmort
+
+==================================================================
+
+
